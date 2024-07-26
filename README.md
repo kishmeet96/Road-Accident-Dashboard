@@ -23,10 +23,14 @@ The Road Accident Dashboard project for 2021 and 2022 is designed to offer a com
 # Key Features & Skills Highlighted
 ### Total Casualties & Severity Analysis:
 • Primary KPI: Total number of casualties resulting from accidents.
+
+
 • Secondary KPIs: Breakdown of casualties by accident severity and vehicle type, including percentage calculations.
 
 ### Vehicle Type Impact:
 • Casualty Distribution: Assess the total casualties and percentage distribution by different vehicle types.
+
+
 • Maximum Casualties by Vehicle: Identify which vehicle types are associated with the highest number of casualties.
 
 ### Monthly Trends & Yearly Comparison:
@@ -34,10 +38,14 @@ The Road Accident Dashboard project for 2021 and 2022 is designed to offer a com
 
 ### Road Type & Surface Analysis:
 • Casualties by Road Type: Determine which types of roads experience the most casualties.
+
+
 • Casualties by Road Surface: Analyze how different road surface conditions affect casualty rates.
 
 ### Location & Temporal Analysis:
 • Casualties by Area/Location: Explore how different geographic areas or locations contribute to overall casualty figures.
+
+
 • Day/Night Casualty Comparison: Evaluate casualty rates during day versus night to identify any time-based patterns in accident frequency 
 
 
