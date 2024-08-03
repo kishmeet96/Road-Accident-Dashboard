@@ -20,7 +20,7 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
 # Project Summary
 The Road Accident Dashboard project for 2021 and 2022 is designed to offer a comprehensive analysis of road accident data. The dashboard aims to provide stakeholders with valuable insights into casualty trends, accident severity, vehicle types, and road conditions. By employing data cleaning, preprocessing, and advanced visualization techniques, the project helps in identifying patterns and making informed decisions to enhance road safety.
 
-# Key Features & Skills Highlighted
+# Key Features 
 ### Total Casualties & Severity Analysis:
 • Primary KPI: Total number of casualties resulting from accidents.
 
